@@ -1,0 +1,7 @@
+element,value
+Customer File,c:/Data/src/R/customer_syr.csv
+Y Axis,SiteID
+Output CSV,syr_maint.csv
+Output Image,syr_maint.png
+Title,Count of Customer systems with support enabled and not enabled
+Sub,SYR Data Collected 16 April 2015
